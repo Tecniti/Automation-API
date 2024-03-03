@@ -14,7 +14,7 @@ Below software must installed on the system
 
 How to setup:
 1.	Clone the repository:
-    a.	git clone <repository_url>
+    a.	git clone https://github.com/Tecniti/Automation-API.git
 2.	Install project dependencies
     a.	Open POM.xml and load all the dependencies
 
