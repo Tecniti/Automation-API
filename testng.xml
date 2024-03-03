@@ -3,7 +3,7 @@
 <suite name="GorestAPI_Automation">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.api.automation.tests.APIAutomation"/>
+      <class name="com.tests.APIAutomation"/>
     </classes>
   </test>
 </suite>

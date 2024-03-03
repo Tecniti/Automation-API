@@ -29,15 +29,13 @@ After running the tests, the Allure reports will be generated in the allure-resu
 
 Explanation of the Project Structure
 1. Included all the dependencies under pom.xml, which is required to import the library in the class.
-2. Provide the initial class “com.api.automation.tests.APIAutomation” at testing.xml, which is the starting point of the project.
+2. Provide the initial class “APIAutomation” at testing.xml, which is the starting point of the project.
 3. Provide the testreport plugin in the APIAutomation class for reporting
 4. Wrote all the testcases under the APIAutomation class by using testNG. Testcases are using GET and POST API and included testcases in the project are:- 
    1. "[POST + Authentication] Create a user based on different email ID with authentication 
    2. Get]Running Get API and validating the status code
    3. "[Fetch data from Nested Structure] Verify Created user from the response of GEt API.
 5. Putted all the method in the UtilsHelper class, which are using in APIAutomation.
-Note: ".idea,allure-report, logs,target/.." Folder are generated after running the code(we can add them in the git .ignore). But for now I've added in the repository Sothat you can view them.
- 
 6. Here is my project structure screenshot.
 ![img.png](img.png)
 

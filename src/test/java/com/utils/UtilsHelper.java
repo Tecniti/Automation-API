@@ -1,4 +1,4 @@
-package com.api.automation.utils;
+package com.utils;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;

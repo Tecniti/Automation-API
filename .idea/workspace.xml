@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45d1aec4-3b6e-47c2-82e2-962eff9c101a" name="Changes" comment="">
+    <list default="true" id="45d1aec4-3b6e-47c2-82e2-962eff9c101a" name="Changes" comment="Note for .gitignore">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/api/automation/tests/APIAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tests/APIAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/api/automation/utils/UtilsHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/utils/UtilsHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/automation/tests/APIAutomation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/automation/utils/UtilsHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +136,21 @@
       <option name="presentableId" value="Default" />
       <updated>1709448695841</updated>
     </task>
+    <task id="LOCAL-00001" summary="+Added Git repo url in readme">
+      <created>1709469931106</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709469931106</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Note for .gitignore">
+      <created>1709470265203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709470265203</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +163,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+Added Git repo url in readme" />
+    <MESSAGE value="Note for .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Note for .gitignore" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RestAssuredAPITestingFramework_main$C__NITI_Automation_API_NEw_RestAssuredAPITestingFramework_main_testng_xml.ic" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1709453977818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

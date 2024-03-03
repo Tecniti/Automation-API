@@ -1,10 +1,10 @@
-package com.api.automation.tests;
+package com.tests;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import com.api.automation.utils.UtilsHelper;
+import com.utils.UtilsHelper;
 import cucumber.api.CucumberOptions;
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
